@@ -1,17 +1,14 @@
-<div class="tcolorbox">
+---
+Title = Les cirucit RLC
+---
 
-notions de bases des circuits, tension et intensité, conducteurs
-ohmiques, Lois de Kirchoff
-
-</div>
-
-# Rappels (du collège & de la seconde)
+## Rappels (du collège & de la seconde)
 
 Nous allons commencer par quelques rappels des notions sur les circuits
 électriques que vous auriez du voir au collège. Il s’agit principalement
 de définitions.
 
-## Dipôles électriques
+### Dipôles électriques
 
 Les dispositifs que l’on voit au collège et au lycée sont presque
 exclusivement des dipôles.
@@ -86,10 +83,10 @@ utilisés.</caption>
 
 <div class="leftbar">
 
-**Définition : *Dipôle électrique***
+> [!NOTE]
+> **Définition : *Dipôle électrique***
 
-- Un **dipôle** est un composant électrique avec une entrée de courant
-  et une sortie, d’où l’appellation *di*pôle.
+- Un **dipôle** est un composant électrique avec une entrée de courant et une sortie, d’où l’appellation *di*pôle.
 
 - Les dipôles tombent en deux catégories : générateur ou
   récepteur<span style="color: purple">(= electrical load</span>)
